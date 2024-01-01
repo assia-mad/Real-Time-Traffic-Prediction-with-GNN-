@@ -12,6 +12,7 @@ This project explores the application of Graph Neural Networks (GNNs) in the dom
   - **Stgcn.py**: Implementation of the STGCN architecture.
   - **Core.ipynb**: Jupyter Notebook detailing the training process and model evaluation.
 - **Requirements.txt**: Lists dependencies for running the project.
+- **GNN_For_Real_Time_Traffic_Prediction.pdf**: Detailed report on the project and its findings.
 
 ## Getting Started
 
