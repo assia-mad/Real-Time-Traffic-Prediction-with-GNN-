@@ -19,7 +19,7 @@ This project explores the application of Graph Neural Networks (GNNs) in the dom
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/[your-username]/real-time-traffic-prediction.git
+    git clone https://github.com/assia-mad/Real-Time-Traffic-Prediction-with-GNN-.git
     cd real-time-traffic-prediction
     ```
 
