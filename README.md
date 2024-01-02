@@ -41,3 +41,12 @@ This project explores the application of Graph Neural Networks (GNNs) in the dom
 
 Feel free to contribute to the project by opening issues, suggesting enhancements, or submitting pull requests. Your input is valuable!
 
+## Contributors
+
+- MADANI YOUSFI Assia
+- LASHEB Mohamed Amine
+- ABDALLAOUI Walid
+
+## Supervisor
+
+- Khaldi Belkaacem
