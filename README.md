@@ -7,6 +7,7 @@ This project explores the application of Graph Neural Networks (GNNs) in the dom
 ## Contents
 
 - **Data Folder**: Contains datasets used for training and testing the model.
+- link to dataset: https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX
 - **Core Folder**:
   - **Utils.py**: Python module with methods for loading data and generating the weighted adjacency matrix.
   - **Stgcn.py**: Implementation of the STGCN architecture.
