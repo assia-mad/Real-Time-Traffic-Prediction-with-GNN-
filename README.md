@@ -50,4 +50,4 @@ Feel free to contribute to the project by opening issues, suggesting enhancement
 
 ## Supervisor
 
-- Khaldi Belkaacem
+- Khaldi Belkacem
